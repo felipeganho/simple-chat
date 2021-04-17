@@ -1,4 +1,4 @@
-# Simple chat using socket TCP.
+# Simple chat using socket TCP/IP.
 
 How to run:
 1) Run servidor.py.
